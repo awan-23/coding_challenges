@@ -1,1 +1,1 @@
-# js_challenges
+# coding_challenges
